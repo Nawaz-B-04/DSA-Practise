@@ -1,7 +1,4 @@
 # Problem: Find Second Largest Element in Array
-# Time Complexity: O(n)
-# Space Complexity: O(1)
-
 //To solve this lets start with brute force solution
 
 //1) Brute force Solution (Assuming there are no duplicates)
