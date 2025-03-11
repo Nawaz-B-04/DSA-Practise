@@ -25,3 +25,4 @@ int main()
                   << ind << endl;
     return 0;
 }
+#Time complexity : Olog(N)
