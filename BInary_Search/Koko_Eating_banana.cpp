@@ -1,3 +1,5 @@
+//Problem Statement: A monkey is given ‘n’ piles of bananas, whereas the 'ith' pile has ‘a[i]’ bananas. An integer ‘h’ is also given, which denotes the time (in hours) for all the bananas to be eaten.
+
 #include <bits/stdc++.h>
 using namespace std;
 
