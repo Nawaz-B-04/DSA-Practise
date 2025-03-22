@@ -48,3 +48,6 @@ int main()
     cout << "The minimum capacity should be: " << ans << "\n";
     return 0;
 }
+
+#Time Complexity: O(N * log(sum(weights[]) - max(weights[]) + 1))
+#Space Complexity: O(1)
