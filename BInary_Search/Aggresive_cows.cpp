@@ -43,3 +43,4 @@ int main()
     cout << "The maximum possible minimum distance is: " << ans << "\n";
     return 0;
 }
+#Space Complexity: O(1)
